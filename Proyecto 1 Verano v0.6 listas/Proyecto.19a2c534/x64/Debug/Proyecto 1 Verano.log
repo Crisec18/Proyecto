@@ -1,0 +1,28 @@
+﻿  Evento.cpp
+  ListaClientes.cpp
+  ListaCodigosDescuento.cpp
+  ListaSegmentos.cpp
+  ListaZonas.cpp
+  NodoSegmento.cpp
+  NodoZona.cpp
+  Segmento.cpp
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(7,13): error C2440: '=': no se puede realizar la conversión de 'Zona **' a 'ListaZonas *'
+  Zona.cpp
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(9,16): error C2679: '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'nullptr' (o bien no existe una conversión aceptable)
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(16,13): error C2440: '=': no se puede realizar la conversión de 'Zona **' a 'ListaZonas *'
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(19,16): error C2679: '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'nullptr' (o bien no existe una conversión aceptable)
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(25,23): error C2440: 'delete': no se puede realizar la conversión de 'ListaZonas' a 'void*'
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(40,31): error C2819: el tipo 'ListaZonas' no tiene un miembro sobrecargado 'operator ->'
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(40,34): error C2039: "getDisponibles": no es un miembro de "ListaZonas"
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(51,19): error C2440: 'return': no se puede realizar la conversión de 'ListaZonas' a 'Zona *'
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(60,26): error C2679: '=' binario: no se encontró un operador que adopte un operando en la parte derecha de tipo 'Zona *' (o bien no existe una conversión aceptable)
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(75,26): error C2676: '!=' binario: 'ListaZonas' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(76,24): error C2819: el tipo 'ListaZonas' no tiene un miembro sobrecargado 'operator ->'
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(76,27): error C2039: "setPrecio": no es un miembro de "ListaZonas"
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(102,60): error C2819: el tipo 'ListaZonas' no tiene un miembro sobrecargado 'operator ->'
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Segmento.cpp(102,61): error C2232: '->ListaZonas::toString': el operando izquierdo tiene el tipo 'class'; utilice '.'
+  Principal.cpp
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Principal.cpp(29,5): error C2065: 'ContenedoraDescuentos': identificador no declarado
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Principal.cpp(29,28): error C2065: 'contDesc': identificador no declarado
+D:\CEC\Visual C++\Practicas y proyectos\VERANO 2023\Proyectos\Proyecto 1 Verano\Principal.cpp(29,43): error C2061: error de sintaxis: identificador 'ContenedoraDescuentos'
+  Generando código...
