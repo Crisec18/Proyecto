@@ -1,0 +1,19 @@
+﻿  Cliente.cpp
+  CodigoDescuento.cpp
+  Evento.cpp
+  ListaClientes.cpp
+  ListaCodigosDescuento.cpp
+  ListaSegmentos.cpp
+  ListaZonas.cpp
+  NodoCliente.cpp
+  NodoCodigo.cpp
+  NodoSegmento.cpp
+  NodoZona.cpp
+  Segmento.cpp
+  Zona.cpp
+  Principal.cpp
+C:\Users\HERNANCHACONZU�IGA\Documents\UNA-2024-Ciclo III\Proyecto 2 Verano\Principal.cpp(279,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\HERNANCHACONZU�IGA\Documents\UNA-2024-Ciclo III\Proyecto 2 Verano\Segmento.cpp(115): warning C4715: 'Segmento::entradasVendidas': not all control paths return a value
+C:\Users\HERNANCHACONZU�IGA\Documents\UNA-2024-Ciclo III\Proyecto 2 Verano\ListaZonas.cpp(100): warning C4715: 'ListaZonas::buscarZonaPorPosicion': not all control paths return a value
+  Proyecto 1 Verano.vcxproj -> C:\Users\HERNANCHACONZU�IGA\Documents\UNA-2024-Ciclo III\Proyecto 2 Verano\x64\Debug\Proyecto 2 Verano.exe
